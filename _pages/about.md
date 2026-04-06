@@ -27,4 +27,4 @@ I am seeking postdoctoral positions in computational linguistics, NLP, and langu
 
 ---
 
-**Contact**: hjeon@knu.ac.kr  
+**Contact**: hjeon(at)knu(dot)ac(dot)kr  
