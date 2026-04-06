@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-pats-adaptive-tutoring
 excerpt: 'Adaptive intelligent tutoring system that infers learner traits from dialogue history and selects teaching strategies through pedagogical knowledge-augmented prompting.'
 date: 2025-01-01
-venue: 'Expert Systems with Applications'
+venue: 'Expert Systems with Applications (In revision)'
 paperurl: ''
 citation: 'Jeon, H., & Kang, B.-Y. (2025). Leveraging Large Language Models for Adaptive Tutoring Systems via Pedagogical Knowledge-Augmented Prompting. <i>Expert Systems with Applications</i>, In revision.'
 ---
