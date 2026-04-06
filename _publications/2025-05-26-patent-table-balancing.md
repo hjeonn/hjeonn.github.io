@@ -6,7 +6,7 @@ permalink: /publication/2025-patent-table-balancing
 excerpt: '테이블 균형맞춤 로봇을 위한 인터액티브 강화학습 방법, 이를 수행하기 위한 기록 매체 및 장치.'
 date: 2025-02-27
 venue: 'Korean Patent'
-paperurl: ''
+#paperurl: ''
 citation: 'Kang, B.-Y., Jeon, H., & Kim, Y. (2025). 테이블 균형맞춤 로봇을 위한 인터액티브 강화학습 방법, 이를 수행하기 위한 기록 매체 및 장치 No. 10-2814408.'
 ---
 

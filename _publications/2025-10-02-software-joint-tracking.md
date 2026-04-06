@@ -6,7 +6,7 @@ permalink: /publication/2025-software-joint-tracking
 excerpt: 'Software registration for robot action learning system for manipulator joint coordinate tracking.'
 date: 2025-10-02
 venue: 'Software Registration (Korea)'
-paperurl: ''
+#paperurl: ''
 citation: 'Obasekore, H. O., Jeon, H., Tae, W., Kim, Y., & Kang, B.-Y. (2025). Robot Action Learning System for Manipulator Joint Coordinate Tracking. Software Registration No. C-2025-040639.'
 ---
 

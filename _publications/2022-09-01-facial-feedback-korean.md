@@ -6,7 +6,7 @@ permalink: /publication/2022-facial-feedback-korean
 excerpt: 'Deep reinforcement learning framework for cooperative robots using facial expression feedback as training signal.'
 date: 2022-09-01
 venue: 'Journal of Korea Robotics Society'
-paperurl: ''
+#paperurl: ''
 citation: 'Jeon, H., Kang, J., & Kang, B.-Y. (2022). Deep Reinforcement Learning-Based Cooperative Robot Using Facial Feedback. <i>Journal of Korea Robotics Society</i>, 17(3), 264-272.'
 ---
 

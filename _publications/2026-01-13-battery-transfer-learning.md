@@ -6,7 +6,7 @@ permalink: /publication/2026-battery-transfer-learning
 excerpt: 'Transfer learning framework for diagnosing degraded lithium-ion batteries from SEM data under domain shift and data scarcity conditions.'
 date: 2026-01-13
 venue: 'Journal of Power Sources (Under review)'
-paperurl: ''
+#paperurl: ''
 citation: 'Jeon, H., Lee, D., Kang, B.-Y., & Oh, J. (2025). Transfer Learning Framework for SEM-Based Degraded Lithium-ion Battery Diagnostics under Domain Shift and Data Scarcity. <i>Journal of Energy Storage</i>, under review.'
 ---
 
