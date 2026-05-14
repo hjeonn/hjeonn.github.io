@@ -84,10 +84,10 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
 publication_category:
-  manuscripts:
-    title: 'International Journal Articles'
   conferences:
     title: 'International Conference Papers'
+  manuscripts:
+    title: 'International Journal Articles'
   korean:
     title: 'Korean Publications (Journal and Conference)'
   patents:
