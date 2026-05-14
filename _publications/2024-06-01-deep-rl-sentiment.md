@@ -5,5 +5,5 @@ category: manuscripts
 permalink: /publication/2024-deep-rl-sentiment
 date: 2024-06-01
 venue: 'Expert Systems with Applications'
-paperurl: 'https://doi.org/10.1016/j.eswa.2024.121198'
+paperurl: 'https://doi.org/10.1016/j.eswa.2023.121198'
 ---
