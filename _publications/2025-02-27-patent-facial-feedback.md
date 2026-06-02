@@ -5,4 +5,5 @@ category: patents
 permalink: /publication/2025-patent-facial-feedback
 date: 2025-02-27
 venue: 'Korean Patent No. 10-2776109'
+authors: "Haein Jeon, Jeonghun Kang, and Bo-Yeong Kang"
 ---
