@@ -1,7 +1,7 @@
 ---
 title: "Deep Reinforcement Learning for Cooperative Robots Based on Adaptive Sentiment Feedback"
 collection: publications
-category: manuscripts
+category: nlp
 permalink: /publication/2024-deep-rl-sentiment
 date: 2024-06-01
 venue: 'Expert Systems with Applications'

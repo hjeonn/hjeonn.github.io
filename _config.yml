@@ -82,14 +82,12 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
+
 publication_category:
-publication_category:
-  conferences:
-    title: 'International Conference Papers'
-  manuscripts:
-    title: 'International Journal Articles'
-  korean:
-    title: 'Korean Publications (Journal and Conference)'
+  nlp:
+    title: 'NLP, AI, and Education'
+  additional:
+    title: 'Additional AI Publications'
   patents:
     title: 'Patents & Software'
 
