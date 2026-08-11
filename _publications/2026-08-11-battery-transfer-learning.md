@@ -3,7 +3,7 @@ title: "Transfer Learning Framework for SEM-Based Degraded Lithium-ion Battery D
 collection: publications
 category: additional
 permalink: /publication/2026-battery-transfer-learning
-date: 2026-01-13
+date: 2026-08-11
 venue: 'Journal of Power Sources (Accepted)'
 authors: "Haein Jeon, Donghun Lee, Bo-Yeong Kang, and Jimin Oh"
 paperurl: ''
