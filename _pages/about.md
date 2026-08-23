@@ -1,30 +1,35 @@
 ---
+
 permalink: /
 title: "About"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+
+* /about/
+* /about.html
+
 ---
 
 I am a postdoctoral researcher at the Energy Storage System Lab (PI: Professor Jimin Oh) at Kyungpook National University. I completed my Ph.D. in Artificial Intelligence in February 2026 under the supervision of Professor Bo-Yeong Kang.
 
-My research focuses on natural language processing and large language models, investigating how linguistic structure is represented in neural models and how computational methods can support language learning.
+My research covers natural language processing, language learning, and applied machine learning. I am interested in how language models learn and represent linguistic information, and how computational methods can be used to study and support learning.
 
 ## Research
 
-My doctoral work developed PATS (Pedagogical Knowledge-Augmented Prompting), an intelligent tutoring system that separates learner modeling from text generation. The system infers learner traits from dialogue history and selects teaching strategies that shape response generation.
+My doctoral research focused on adaptive intelligent tutoring systems. I developed PATS (Pedagogical Knowledge-Augmented Prompting), a tutoring framework that models learner characteristics from dialogue history and uses them to select teaching strategies for response generation.
 
-My current research investigates how language models internally represent linguistic phenomena, particularly in cross-lingual and learner language contexts. I am interested in what models learn about grammatical structure, how they encode systematic patterns such as L1 transfer effects, and whether these representations align with linguistically motivated categories. 
+My recent NLP work examines linguistic representations in language models. One line of work investigates whether representations of learner English contain information about a writer's native language. I am also interested in how language models acquire linguistic patterns and how their learning relates to human language acquisition.
+
+I also work on applied AI problems. At the Energy Storage System Lab, I study machine learning methods for battery diagnostics, including transfer learning under domain shift and limited data. I also participate in a project on lightweight language models for analyzing misconceptions in physics education.
 
 ## Background
 
-I studied English Education at Kyungpook National University before graduate work in AI. My master's research examined how speech-based feedback guides learning in reinforcement learning contexts. My doctoral work and current research connect through a shared focus: how structured linguistic knowledge can be integrated into model design and training.
+I studied English Education at Kyungpook National University before pursuing graduate degrees in Artificial Intelligence. My master's research focused on interactive reinforcement learning using human feedback, followed by doctoral research on learner modeling and intelligent tutoring systems.
 
-## Looking Ahead
+## Research Interests
 
-I am seeking postdoctoral positions in computational linguistics, NLP, and language acquisition research, with publication targets at top-tier conferences.
+Natural Language Processing · Language Models · Language Learning · Representation Analysis · Human-AI Interaction · Applied Machine Learning
 
 ---
 
-**Contact**: hjeon(at)knu(dot)ac(dot)kr  
+**Contact**: hjeon(at)knu(dot)ac(dot)kr
