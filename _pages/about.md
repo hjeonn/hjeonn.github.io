@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-I am a postdoctoral researcher at the Energy Storage System Lab (PI: Professor Jimin Oh) at Kyungpook National University. I completed my Ph.D. in Artificial Intelligence in February 2026 under the supervision of Professor Bo-Yeong Kang.
+I am a postdoctoral researcherat the Language Knowledge and Intelligence Lab (PI: Professor Hyunsoo Cho) at Ewha Womans University. I completed my Ph.D. in Artificial Intelligence in February 2026 under the supervision of Professor Bo-Yeong Kang.
 
 My research covers natural language processing, language learning, and applied machine learning. I am interested in how language models learn and represent linguistic information, and how computational methods can be used to study and support learning.
 
