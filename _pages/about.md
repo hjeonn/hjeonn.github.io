@@ -31,4 +31,4 @@ Natural Language Processing · Language Models · Language Learning · Represent
 
 ---
 
-**Contact**: hjeon(at)knu(dot)ac(dot)kr
+**Contact**: hijeon(at)ewha(dot)ac(dot)kr
