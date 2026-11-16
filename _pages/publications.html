@@ -15,8 +15,20 @@ author_profile: true
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
+    {% comment %} Pass 1: items without a status, newest first {% endcomment %}
     {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
+      {% if post.category != category[0] or post.status %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+    {% comment %} Pass 2: items with a status (e.g. under review), placed last {% endcomment %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] or post.status == nil %}
         {% continue %}
       {% endif %}
       {% unless title_shown %}

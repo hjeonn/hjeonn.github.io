@@ -36,7 +36,11 @@
     {{/* Venue and Year */}}
     {% if post.collection == 'publications' %}
       <p style="margin: 0 0 0.3em 0; font-size: 0.85em; color: #555;">
-        <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+        {% if post.status %}
+          <i>{{ post.venue }}</i>, {{ post.status }}
+        {% else %}
+          <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+        {% endif %}
       </p>
     {% endif %}
 

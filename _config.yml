@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Haein Jeon"
   pronouns         : "she/her"
-  bio              : "Ph.D. in Artificial Intelligence | NLP & Large Language Models & Tutoring Systems"
+  bio              : "Ph.D. in Artificial Intelligence | NLP, Applied AI, AI for Education"
   location: "Seoul, South Korea"
   employer: "Ewha Womans University"
   uri :
@@ -85,9 +85,9 @@ author:
 
 publication_category:
   nlp:
-    title: 'NLP, AI, and Education'
+    title: 'Natural Language Processing'
   additional:
-    title: 'Additional AI Publications'
+    title: 'Applied AI'
   patents:
     title: 'Patents & Software'
 
